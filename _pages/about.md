@@ -10,12 +10,14 @@ redirect_from:
 
 Welcome !
 
-I am a Mathematician in optimisation, machine learning and mathematical Physics.<br /> I work as a postdoctoral researcher at [Inria](https://www.inria.f/) (centre Lille - Nord Europe) in the [MODAL Team](https://team.inria.fr/modal/).
+I am a Mathematician in optimisation, machine learning and mathematical Physics.<br />
+
+Since February 2019, I work as a postdoctoral researcher at [Inria](https://www.inria.f/) (centre Lille - Nord Europe) in the [MODAL Team](https://team.inria.fr/modal/).
 
 ### Research interest
 
 * Methodologies exploiting statistical and learning methods for the modelling of optimisation problems
-* Stationary phase methods with applications to the study of wave packets propagations
+* Stationary phase methods with applications to the study of the propagation of wave packets
 * Numerical methods for the decomposition of matrices depending continuously on a parameter and applications to sound source reconstruction
 * Ciphertext-only attacks for the Hill cipher
 
