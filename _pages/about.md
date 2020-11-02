@@ -27,4 +27,5 @@ Since February 2019, I work as a postdoctoral researcher at [Inria](https://www.
 
 CRI Lille - Nord Europe\
 Office 107, building A\
-40 avenue Halley, 59650 Villeneuve d'Ascq, France
+40 avenue Halley\
+59650 Villeneuve d'Ascq, France

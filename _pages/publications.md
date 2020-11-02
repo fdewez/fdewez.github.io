@@ -9,7 +9,6 @@ My publications can be found on the following systems:
 
 * <a href="{{ site.author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a>
 * <a href="{{ site.author.googlescholar }}"><i class="ai ai-fw ai-google-scholar"></i> Google Scholar</a>
-* <a href="https://www.researchgate.net/profile/Florent_Dewez"><i class="ai ai-fw ai-google-scholar"></i> ResearchGate</a>
 * <a href="{{ site.author.orcid }}"><i class="ai ai-fw ai-orcid"></i> ORCID</a>
 * <a href="{{ site.author.researchgate }}"><i class="ai ai-fw ai-researchgate"></i> ResearchGate</a>
 

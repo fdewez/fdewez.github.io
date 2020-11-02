@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 classes: wide
 ---
-As a mathematician working in different fields, I leverage my experience to propose new points of view to concrete problems from the natural sciences or from the industry for a better understanding and novel numerical methods. I enjoy especially collaborating with experts from other fields to build a bridge between the mathematical sciences and these fields. Indeed the interpretation of a mathematical concept from an other field may help the mathematician to bring insights to this concept, leading potentially to innovative methods which are both efficient and reliable. <br />
+As a mathematician working in different fields, I leverage my experience to propose new points of view for concrete problems from the natural sciences or from the industry for a better understanding and novel numerical methods. I enjoy especially collaborating with experts from other fields to build a bridge between the mathematical sciences and other domains. Indeed the interpretation of mathematical concepts from other domains may help the mathematician to bring insights to those concepts, leading potentially to innovative methods which are both efficient and reliable. <br />
 
 I detail below the projects in which I am or have been involved.
 
@@ -14,7 +14,7 @@ I detail below the projects in which I am or have been involved.
 
 Trajectory optimisation is a wide field of academic and industrial study with numerous applications. Many algorithms have been developed to find the trajectory which minimises the criterion of interest while complying with certain constraints. Among them, we can mention optimal commands methods which provide a large family of physical-based approaches to model and to solve numerically such optimisation problems. In this case an a priori knowledge of the underlying dynamics of the system is required to obtain a realistic solution.<br />
 
-Nevertheless the exact knowledge of physical systems may be hard to model and numerical methods may require a huge amount of computational ressources. In view of this, we leverage numerous data coming from real-life situations to develop a new methodology for the modelling of trajectory optimisation problems. In a nutshell, this methodology, which is intended to be generic, exploits information contained in the data to obtain simpler problems which take into account estimated properties of the system and which can be solved by efficient algorithms.<br />
+Nevertheless the exact knowledge of physical systems may be hard to model and numerical methods may require significant computational ressources. In view of this, we leverage huge amounts of data coming from real-life situations to develop a new methodology for the modelling of trajectory optimisation problems. In a nutshell, this methodology, which is intended to be generic, exploits information contained in the data to obtain simpler problems which take into account estimated properties of the system and which can be solved by efficient algorithms.<br />
 
 This work has been carried out in collaboration with aeronautics experts from Safety Line within the PERF-AI project for the reduction of fuel consumption in the aviation. Further developments of this methodology are considered in view of new applications.\
 A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is in progress; see [Publications](https://fdewez.github.io/publications/).
@@ -42,9 +42,9 @@ Quantum Mechanics is the field which seeks at describing atomic and sub-atomic p
 The aim of this research project, which is actually the core of my PhD thesis, is to develop a methodology to quantify in a certain way the spatial localisation of a particle given a perfect knowledge of its momentum. We achieve this result by applying wisely the stationary phase method to solutions of dispersive equations describing quantum particles, leading to time-asymptotic descriptions of the position with explicit error. Our mathematical results cover not only the Schrödinger equation but also a large family of evolution equations and provide insightful interpretations from a physical point of view.
 
 Applications to perturbed or nonlinear settings are expected to bring some new explicit results which could be interpreted and exploited by the Physics community.\
-Three papers detailing the methodology in the case of free particles have been published; see [Publications](https://fdewez.github.io/publications/). A preprint on an application of the method to Schrödinger equation with potential is available [here](https://fdewez.github.io/files/fdewez-schrodinger_potential.pdf).
+Three papers detailing the methodology in the case of free particles have been published; see [Publications](https://fdewez.github.io/publications/). A preprint on an application of the method to the Schrödinger equation with potential is available [here](https://fdewez.github.io/files/fdewez-schrodinger_potential.pdf).
 
-**Fundings:** Labex [CEMPI](https://math.univ-lille1.fr/~cempi/) and the Nord-Pas-de-Calais region.\
+**Fundings:** Labex [CEMPI](https://math.univ-lille1.fr/~cempi/) and the Nord-Pas-de-Calais region\
 **Role:** PhD student
 
 ### Collaborators
