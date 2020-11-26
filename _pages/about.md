@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome !
 
-I am a Mathematician in optimisation, data science and mathematical Physics.<br />
+I am a Mathematician in optimisation, data science and mathematical physics.<br />
 
 Since February 2019, I work as a postdoctoral researcher at [Inria](https://www.inria.fr/) (centre Lille - Nord Europe) in the [MODAL Team](https://team.inria.fr/modal/).
 

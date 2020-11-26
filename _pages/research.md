@@ -17,7 +17,7 @@ Trajectory optimisation is a wide field of academic and industrial study with nu
 Nevertheless the exact knowledge of physical systems may be hard to model and numerical methods may require significant computational ressources. In view of this, we leverage huge amounts of data coming from real-life situations to develop a new methodology for the modelling of trajectory optimisation problems. In a nutshell, this methodology, which is intended to be generic, exploits information contained in the data to obtain simpler problems which take into account estimated properties of the system and which can be solved by efficient algorithms.<br />
 
 This work has been carried out in collaboration with aeronautics experts from Safety Line within the PERF-AI project for the reduction of fuel consumption in the aviation. Further developments of this methodology are considered in view of new applications.\
-A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is in progress; see [Publications](https://fdewez.github.io/publications/).
+A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is submitted for publication; see [Publications](https://fdewez.github.io/publications/).
 
 **Project:** PERF-AI, Enhance Aircraft Performance and Optimisation through utilisation of Artificial Intelligence\
 **Fundings:** H2020 Clean Sky 2\
@@ -26,11 +26,11 @@ A first paper showing how to design individual performance models of physical sy
 
 ### Collaborators
 
-[Benjamin Guedj](https://bguedj.github.io/), [Baptiste Gregorutti](https://www.linkedin.com/in/thibaut-le-magueresse/), [Arthur Talpaert](https://github.com/ArthurTlprt), [Vincent Vandewalle](https://pro.univ-lille.fr/vincent-vandewalle/)
+[Benjamin Guedj](https://bguedj.github.io/), [Baptiste Gregorutti](https://www.linkedin.com/in/baptiste-gregorutti-b3a27941/), [Arthur Talpaert](https://github.com/ArthurTlprt), [Vincent Vandewalle](https://pro.univ-lille.fr/vincent-vandewalle/)
 
 ### Software
 
-We develop the Python library PyRotor which will be available soon at [https://github.com/bguedj/pyrotor](https://github.com/bguedj/pyrotor).
+We develop the Python library PyRotor which is available at [https://github.com/bguedj/pyrotor](https://github.com/bguedj/pyrotor).
 
 
 ## Description of wave packets propagation
