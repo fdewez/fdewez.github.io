@@ -17,7 +17,8 @@ Trajectory optimisation is a wide field of academic and industrial study with nu
 Nevertheless the exact knowledge of physical systems may be hard to model and numerical methods may require significant computational ressources. In view of this, we leverage huge amounts of data coming from real-life situations to develop a new methodology for the modelling of trajectory optimisation problems. In a nutshell, this methodology, which is intended to be generic, exploits information contained in the data to obtain simpler problems which take into account estimated properties of the system and which can be solved by efficient algorithms.<br />
 
 This work has been carried out in collaboration with aeronautics experts from Safety Line within the PERF-AI project for the reduction of fuel consumption in the aviation. Further developments of this methodology are considered in view of new applications.\
-A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is submitted for publication; see [Publications](https://fdewez.github.io/publications/).
+A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is submitted for publication; see [Publications](https://fdewez.github.io/publications/).\
+Slides presenting this work can be downloaded [here](https://fdewez.github.io/files/fdewez-optimisation_talk.pdf).
 
 **Project:** PERF-AI, Enhance Aircraft Performance and Optimisation through utilisation of Artificial Intelligence\
 **Fundings:** H2020 Clean Sky 2\
@@ -42,7 +43,8 @@ Quantum Mechanics is the field which seeks at describing atomic and sub-atomic p
 The aim of this research project, which is actually the core of my PhD thesis, is to develop a methodology to quantify in a certain way the spatial localisation of a particle given a perfect knowledge of its momentum. We achieve this result by applying wisely the stationary phase method to solutions of dispersive equations describing quantum particles, leading to time-asymptotic descriptions of the position with explicit error. Our mathematical results cover not only the Schrödinger equation but also a large family of evolution equations and provide insightful interpretations from a physical point of view.
 
 Applications to perturbed or nonlinear settings are expected to bring some new explicit results which could be interpreted and exploited by the Physics community.\
-Three papers detailing the methodology in the case of free particles have been published; see [Publications](https://fdewez.github.io/publications/). A preprint on an application of the method to the Schrödinger equation with potential is available [here](https://fdewez.github.io/files/fdewez-schrodinger_potential.pdf).
+Three papers detailing the methodology in the case of free particles have been published; see [Publications](https://fdewez.github.io/publications/). A preprint on an application of the method to the Schrödinger equation with potential is available [here](https://fdewez.github.io/files/fdewez-schrodinger_potential.pdf).\
+For further information, you can access my PhD thesis [there](https://ori-nuxeo.univ-lille1.fr/nuxeo/site/esupversions/b91a2d0e-457d-4b24-ae88-36ad10388fcf) and download the slides of my defence from this [link](https://fdewez.github.io/files/fdewez-defence_thesis.pdf).
 
 **Fundings:** Labex [CEMPI](https://math.univ-lille1.fr/~cempi/) and the Nord-Pas-de-Calais region\
 **Role:** PhD student
