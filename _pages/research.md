@@ -18,7 +18,9 @@ Nevertheless the exact knowledge of physical systems may be hard to model and nu
 
 This work has been carried out in collaboration with aeronautics experts from Safety Line within the PERF-AI project for the reduction of fuel consumption in the aviation. Further developments of this methodology are considered in view of new applications.\
 A first paper showing how to design individual performance models of physical systems has been published and a second one introducing the optimisation methodology is submitted for publication; see [Publications](https://fdewez.github.io/publications/).\
-Slides presenting this work can be downloaded [here](https://fdewez.github.io/files/fdewez-optimisation_talk.pdf).
+Slides presenting this work can be downloaded [here](https://fdewez.github.io/files/fdewez-optimisation_talk.pdf).\
+A short article about the results obtained in the PERF-AI project can be found on [Clean Sky's website](https://www.cleansky.eu/news/perf-ai-optimises-flight-trajectories-and-reduces-emissions-with-artificial-intelligence).\
+I had also the opportunity to present the project and the results for a wide (French) audience in a virtual talk organised by Inria. It is available from the [Youtube InriaChannel](https://www.youtube.com/watch?v=KOxayJ9Hqc4&list=PLJ1qHZpFsMsRGZC6AixT-hTqoBmUg34ne). We experienced some technical issues, making the talk less predictable !
 
 **Project:** PERF-AI, Enhance Aircraft Performance and Optimisation through utilisation of Artificial Intelligence\
 **Fundings:** H2020 Clean Sky 2\
