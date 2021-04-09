@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Florent Dewez"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher in optimisation, data science and mathematical physics at Inria"
+  bio              : "Research engineer in optimisation, data science and mathematical physics at Inria"
   location         : "Lille, France"
   employer         : "Inria"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5YzcyIAAAAAJ&hl=fr"
   email            : "florent.dewez@inria.fr"
   researchgate     : "https://www.researchgate.net/profile/Florent_Dewez"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Dewez%2C+F"
   uri              :
   bitbucket        :
   codepen          :
