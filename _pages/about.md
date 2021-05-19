@@ -12,7 +12,7 @@ Welcome !
 
 I am a Mathematician in optimisation, data science and mathematical physics.<br />
 
-Since February 2019, I have been working at [Inria](https://www.inria.fr/) (centre Lille - Nord Europe) in the [MODAL Team](https://team.inria.fr/modal/), first as a postdoctoral researcher until January 2021 and since then as a research engineer.
+Since February 2019, I have been working at [Inria](https://www.inria.fr/), first as a postdoctoral researcher and research engineer until May 2021 in the [MODAL Team](https://team.inria.fr/modal/) and since then as a Starting Research Position in the [DataShape Team](https://team.inria.fr/datashape/).
 
 ### Research interest
 

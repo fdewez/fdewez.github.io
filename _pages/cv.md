@@ -10,7 +10,8 @@ My detailed Curriculum Vitae is available [here](https://fdewez.github.io/files/
 
 Work experience
 ======
-* Since February 2021, research engineer at Inria - Centre Lille Nord Europe
+* From May 2021, Starting Research Position at Inria - Centre Inria Saclay Ile-de-France
+* From February to April 2021, research engineer at Inria - Centre Lille Nord Europe
 * From February 2019 to January 2021, postdoctoral researcher at Inria - Centre Lille Nord Europe
 * From Septembre 2017 to January 2019, postdoctoral researcher at Université Grenoble-Alpes
 * From October 2016 to August 2017, research and teaching assistant at Université de Valenciennes et du Hainaut-Cambrésis
